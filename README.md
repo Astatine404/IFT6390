@@ -1,1 +1,1 @@
-# IFT6390
+# IFT6390 - Fundamentals of Machine Learning -  Course HWs
